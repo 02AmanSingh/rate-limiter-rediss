@@ -1,6 +1,6 @@
 {
   "name": "rate-limiter-rediss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Rate Limiter is a tool used to control the rate of requests a user or client can make to an API or service. This helps prevent abuse, overloading, or denial-of-service (DoS) attacks and ensures fair usage among multiple users. This NPM package is designed to be a simple and lightweight solution for implementing rate limiting in JavaScript/Node.js applications.",
   "main": "index.js",
   "scripts": {
