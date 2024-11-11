@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# Output directories
+dist/
+build/
+
+# Jest coverage reports
+coverage/
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.swp
+
+# Git merge conflict files
+*.orig
